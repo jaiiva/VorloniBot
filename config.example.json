@@ -1,0 +1,9 @@
+{
+  "nickname": "VorloniBot",
+  "server": {
+    "host": "irc.example.net",
+    "port": 6697,
+    "tls": true
+  },
+  "channels": ["#testi", "#toinen-kanava"]
+}
